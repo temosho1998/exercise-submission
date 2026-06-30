@@ -1,0 +1,10 @@
+It simpliflies error messages into plain language and highlights relevant lines in the stack trace
+failing to share relevant code that generated the error
+understand the chain of events leading to the error and identify fundamental issues
+it often leads to shallow solutions that don't address root causes
+to understand why code is running slowly and learn how to improve performance
+to verify that the changes actually improve performance
+poorly optimized database queries
+the AI suggests a plausible-looking but incorrect solution
+it can overlook edge cases that cause failures in real-world scenarios
+to ensure the solution is free from biases or flawed logic
