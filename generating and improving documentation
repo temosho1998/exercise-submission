@@ -1,0 +1,10 @@
+Over-abundance of documentation
+to explain what the code is trying to accomplish and break down its logic
+standardizing and converting existing documentation into a consistent style
+missing important edge cases or practical examples
+ask for specific documentation on all parameters, return values, and exceptions
+review the documentation carefully and correct it with AI  assistance
+when you need to quickly generate a first draft of documentation for a function
+to ensure all necessarry aspects, including examples and error scenarios, are covered
+assuming too much prior knowledge and skipping essential setup steps
+creating standardized README files that include essential project information
